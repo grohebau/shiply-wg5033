@@ -1,0 +1,47 @@
+{
+  "R58139": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Daniel Kehl, Am Brink 8, 18209 Bad Doberan, Deutschland",
+    "receiver": "Johann Schmidschneider, Döllenstraße 25, 88677 Markdorf, Deutschland",
+    "price": "15.000 €",
+    "description": "Hersteller: Harley-Davidson<br>Typ: Night Rod Special VRSCDX<br>Fahrgestelnummer: 5HD1HHHC7GC801597<br>Erstzulassung: 9/2016<br>KM laut Vorbesitzer: 10.571 km<br>Leistung: 90 kW (122 PS)<br>Hubraum: 1.247 cm³<br>Farbe: Beige<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Johann Schmidschneider<br>Döllenstraße 25<br>88677 Markdorf<br>Deutschland<br>Telefon: +49 159 01237979",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "02-09-2025",
+    "deliveryDate": "08-10-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
